@@ -1,4 +1,4 @@
-# glassify-player
+# twinni6glass übersicht widget
 
 A spotity now playing mini player widget 
 for übersicht(https://tracesof.net)
