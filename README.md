@@ -10,13 +10,10 @@ Add folder to /user/Library/Application Support/Übersicht/Widgets/
 <b>!!Important!!</b> put the scripts folder inside /user/Librarsy/Application Support/übersicht/
 
 
-Normal(Top-left): 
 
-![normal](https://github.com/john-json/glassify-player/blob/main/glassify.widget/screenshot2.png)
 
-mouse over:
+![normal](https://github.com/john-json/glassify-player/blob/main/twinni6glass-widget.widget/screen.png)
 
-![Hover](https://github.com/john-json/glassify-player/blob/main/glassify.widget/screenshot.png)
 
 
 
