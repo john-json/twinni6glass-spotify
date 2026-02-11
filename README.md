@@ -12,7 +12,7 @@ Add folder to /user/Library/Application Support/Übersicht/Widgets/
 
 
 
-![normal]([ttps://github.com/john-json/twinni6glass-spotify/blob/main/Screenshot.png])
+![normal]([https://raw.githubusercontent.com/john-json/twinni6glass-spotify/refs/heads/main/T6Glass-spotify.widget/Screenshot.png])
 
 
 
