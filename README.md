@@ -12,8 +12,7 @@ Add folder to /user/Library/Application Support/Übersicht/Widgets/
 
 
 
-![normal](https://github.com/john-json/glassify-player/blob/main/twinni6glass-spotify.widget/screen.png)
-
+![normal]([ttps://github.com/john-json/twinni6glass-spotify/blob/main/Screenshot.png])
 
 
 
