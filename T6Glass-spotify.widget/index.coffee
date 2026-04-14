@@ -117,8 +117,8 @@ style: """
   .spotify-widget:hover .spotify-popup {
     display: block;
     opacity: 1;
-    left:0;
-    transform:translateY(-10%)  translateX(-100%) scale(1.2);       
+    left:50px;
+    transform:translateY(-5%)  translateX(-90%) scale(1);       
     max-height: 400px;              /* big enough for content */
     padding: 10px 10px;
     background: rgba(255,255,255,0.05);
