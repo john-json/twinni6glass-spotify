@@ -10,9 +10,11 @@ Add folder to /user/Library/Application Support/Übersicht/Widgets/
 <b>!!Important!!</b> put the scripts folder inside /user/Librarsy/Application Support/übersicht/
 
 
-
+Bottom:
 ![normal](https://raw.githubusercontent.com/john-json/twinni6glass-spotify/refs/heads/main/T6Glass-spotify.widget/spotify-bottom.widget/ezgif-62c6daf8ff1e86ef.gif)
 
+
+Top:
 ![normal](https://raw.githubusercontent.com/john-json/twinni6glass-spotify/refs/heads/main/T6Glass-spotify.widget/spotify-top.widget/ezgif-68381b7e6a64743e.gif)
 
 
