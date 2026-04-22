@@ -13,10 +13,10 @@
 <br>
 
 ##, Features
-- **Glassmorphism design** â€“ Modern frosted glass effect.
-- **Real-time Spotify** â€“ Shows current track, artist, progress.
-- **Two layouts** â€“ Bottom or top desktop positioning.
-- **Lightweight** â€“ Optimized for Ãœbersicht performance.
+- **Glassmorphism design** Modern frosted glass effect.
+- **Real-time Spotify** Shows current track, artist, progress.
+- **Two layouts** Bottom or top desktop positioning.
+- **Lightweight** Optimized for Ãœbersicht performance.
 
 ##, Installation
 
