@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Ãœbersicht Widget](https://img.shields.io/badge/%C3%9Cbersicht-Widget-blueviolet?logo=uebersicht&logoColor=white&style=flat-square)](https://tracesof.net/uebersicht-widgets/)
+[![übersicht Widget](https://img.shields.io/badge/%C3%9Cbersicht-Widget-blueviolet?logo=uebersicht&logoColor=white&style=flat-square)](https://tracesof.net/uebersicht-widgets/)
 [![Spotify](https://img.shields.io/badge/Spotify-Mini%20Player-green?logo=spotify&logoColor=white&style=flat-square)](https://spotify.com)
 [![macOS](https://img.shields.io/badge/macOS-Desktop-orange?logo=apple&logoColor=white&style=flat-square)](https://apple.com/macos)
 
@@ -20,8 +20,8 @@
 
 ##, Installation
 
-1. Install [Ãœbersicht](https://tracesof.net/uebersicht-widgets/).
-2. Open Ãœbersicht Widgets folder:
+1. Install [übersicht](https://tracesof.net/uebersicht-widgets/).
+2. Open  Übersicht Widgets folder:
    ```
    ~/Library/Application Support/Ãœbersicht/Widgets/
    ```
@@ -30,7 +30,7 @@
    ```
    ~/Library/Application Support/Ãœbersicht/
    ```
-5. Reload Ãœbersicht (Cmd+R).
+5. Reload Übersicht (Cmd+R).
 
 ##, Preview
 
@@ -51,8 +51,8 @@
 ##¸ Customization
 
 Edit files inside `.widget/`:
-- `index.coffee` â€“ Logic and Spotify API.
-- `style.styl` â€“ Colors, glass effects, sizing.
+- `index.coffee` “ Logic and Spotify API.
+- `style.styl` “ Colors, glass effects, sizing.
 
 Reload Ãœbersicht to see changes.
 
