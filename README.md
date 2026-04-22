@@ -20,7 +20,7 @@
 
 ##, Installation
 
-1. Install [übersicht](https://tracesof.net/uebersicht-widgets/).
+1. Install [übersicht](https://tracesof.net/übersicht-widgets/).
 2. Open  Übersicht Widgets folder:
    ```
    ~/Library/Application Support/Übersicht/Widgets/
@@ -58,7 +58,7 @@ Reload Ãœbersicht to see changes.
 
 ##¸ Requirements
 - macOS
-- [Ãœbersicht](https://tracesof.net/uebersicht-widgets/)
+- [Übersicht](https://tracesof.net/übersicht-widgets/)
 - Spotify app running
 
 ##, Contributing
