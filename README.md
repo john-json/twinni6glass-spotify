@@ -1,4 +1,4 @@
-# twinni6glass âœ¨
+# twinni6glass
 
 <div align="center">
 
@@ -12,13 +12,13 @@
 
 <br>
 
-## ðŸš€ Features
+##, Features
 - **Glassmorphism design** â€“ Modern frosted glass effect.
 - **Real-time Spotify** â€“ Shows current track, artist, progress.
 - **Two layouts** â€“ Bottom or top desktop positioning.
 - **Lightweight** â€“ Optimized for Ãœbersicht performance.
 
-## ðŸ“¦ Installation
+##, Installation
 
 1. Install [Ãœbersicht](https://tracesof.net/uebersicht-widgets/).
 2. Open Ãœbersicht Widgets folder:
@@ -32,7 +32,7 @@
    ```
 5. Reload Ãœbersicht (Cmd+R).
 
-## ðŸ“± Preview
+##, Preview
 
 ### Bottom Layout
 <div align="center">
@@ -48,7 +48,7 @@
 <a href="https://raw.githubusercontent.com/john-json/twinni6glass-spotify/refs/heads/main/T6Glass-spotify.widget/spotify-top.widget/ezgif-68381b7e6a64743e.gif">[Direct GIF Link]</a>
 </div>
 
-## âš™ï¸ Customization
+##¸ Customization
 
 Edit files inside `.widget/`:
 - `index.coffee` â€“ Logic and Spotify API.
@@ -56,23 +56,23 @@ Edit files inside `.widget/`:
 
 Reload Ãœbersicht to see changes.
 
-## â„¹ï¸ Requirements
+##¸ Requirements
 - macOS
 - [Ãœbersicht](https://tracesof.net/uebersicht-widgets/)
 - Spotify app running
 
-## ðŸ¤ Contributing
+##, Contributing
 1. Fork the repo.
 2. Create feature branch (`git checkout -b feature/AmazingFeature`).
 3. Commit changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push (`git push origin feature/AmazingFeature`).
 5. Open Pull Request.
 
-## ðŸ“„ License
+##, License
 MIT License â€“ see [LICENSE](LICENSE) Â© john-json
 
 ---
 
 <div align="center">
-Built with â¤ï¸ for macOS customization
+Built for macOS customization
 </div>
