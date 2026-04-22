@@ -6,7 +6,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-Mini%20Player-green?logo=spotify&logoColor=white&style=flat-square)](https://spotify.com)
 [![macOS](https://img.shields.io/badge/macOS-Desktop-orange?logo=apple&logoColor=white&style=flat-square)](https://apple.com/macos)
 
-**Glass-style Spotify now playing widget for Ãœbersicht.**
+**Glass-style Spotify now playing widget for Übersicht.**
 
 </div>
 
@@ -16,19 +16,19 @@
 - **Glassmorphism design** Modern frosted glass effect.
 - **Real-time Spotify** Shows current track, artist, progress.
 - **Two layouts** Bottom or top desktop positioning.
-- **Lightweight** Optimized for Ãœbersicht performance.
+- **Lightweight** Optimized for Übersicht performance.
 
 ##, Installation
 
 1. Install [übersicht](https://tracesof.net/uebersicht-widgets/).
 2. Open  Übersicht Widgets folder:
    ```
-   ~/Library/Application Support/Ãœbersicht/Widgets/
+   ~/Library/Application Support/Übersicht/Widgets/
    ```
 3. Copy `spotify-bottom.widget` or `spotify-top.widget` here.
 4. **Important**: Place `scripts` folder in:
    ```
-   ~/Library/Application Support/Ãœbersicht/
+   ~/Library/Application Support/Übersicht/
    ```
 5. Reload Übersicht (Cmd+R).
 
