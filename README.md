@@ -61,13 +61,6 @@ Reload Ãœbersicht to see changes.
 - [Übersicht](https://tracesof.net/übersicht-widgets/)
 - Spotify app running
 
-##, Contributing
-1. Fork the repo.
-2. Create feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push (`git push origin feature/AmazingFeature`).
-5. Open Pull Request.
-
 ##, License
 MIT License â€“ see [LICENSE](LICENSE) Â© john-json
 
